@@ -1,0 +1,11 @@
+[ {
+  "uid" : "67f87b4dde931e71",
+  "name" : "should allow user add product to cart and place order",
+  "time" : {
+    "start" : 1623960082924,
+    "stop" : 1623960090480,
+    "duration" : 7556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

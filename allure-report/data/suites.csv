@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 18 06:01:22 AEST 2021","Fri Jun 18 06:01:30 AEST 2021","7556","","Product Store test website","","Product Store test website","should allow user add product to cart and place order","should allow user add product to cart and place order",""

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Product Store test website",
+    "children" : [ {
+      "name" : "should allow user add product to cart and place order",
+      "uid" : "67f87b4dde931e71",
+      "parentUid" : "a98d8d46ba35d87461f834ff0eb8d61f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623960082924,
+        "stop" : 1623960090480,
+        "duration" : 7556
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "a98d8d46ba35d87461f834ff0eb8d61f"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#page-wrapper > div > div.col-lg-1 > button"
+}

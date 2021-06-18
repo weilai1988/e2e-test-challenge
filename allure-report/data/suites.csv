@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Jun 18 06:01:22 AEST 2021","Fri Jun 18 06:01:30 AEST 2021","7556","","Product Store test website","","Product Store test website","should allow user add product to cart and place order","should allow user add product to cart and place order",""
+"passed","Fri Jun 18 06:40:59 AEST 2021","Fri Jun 18 06:41:07 AEST 2021","7479","","Product Store test website","","Product Store test website","should allow user add product to cart and place order","should allow user add product to cart and place order",""
+"passed","Fri Jun 18 06:40:59 AEST 2021","Fri Jun 18 06:41:05 AEST 2021","5604","","Product Store test website","","Product Store test website","should login with valid credentials","should login with valid credentials",""
+"passed","Fri Jun 18 06:40:59 AEST 2021","Fri Jun 18 06:41:04 AEST 2021","4821","","Product Store test website","","Product Store test website","should navigate via Categories with no login","should navigate via Categories with no login",""

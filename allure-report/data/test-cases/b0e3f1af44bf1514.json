@@ -1,0 +1,56 @@
+{
+  "uid" : "b0e3f1af44bf1514",
+  "name" : "should allow user add product to cart and place order",
+  "fullName" : "Product Store test website.should allow user add product to cart and place order",
+  "historyId" : "31020312a3b6c682487a6a25b36a3124",
+  "time" : {
+    "start" : 1623960082924,
+    "stop" : 1623960090480,
+    "duration" : 7556
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product Store test website"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Store test website"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow user add product to cart and place order"
+  }, {
+    "name" : "package",
+    "value" : "Product Store test website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0e3f1af44bf1514.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}

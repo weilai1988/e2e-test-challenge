@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#tbodyid > div.row > div > a"
+}
